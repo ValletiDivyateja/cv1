@@ -1,0 +1,167 @@
+.topdiv {
+  background-color: antiquewhite;
+  border: solid;
+  border-width: thick;
+  border-color: cadetblue;
+  padding-top: 100px;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #66BFBF;
+}
+h3{
+  color:  #11999E;
+}
+a{
+  color:  #11999E;
+}
+
+.skills {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.skill-row{
+  width:50%;
+margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+h4{
+  color: cadetblue;
+  margin: 0;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 350px;
+  top: 300px;
+}
+
+.mountain{
+  position: relative;
+  bottom: 50px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 400px;
+  top: 30px;
+}
+
+.extraskill1 {
+  width: 25%;
+  float: right;
+  margin-left: 15px;
+}
+.extraskill2 {
+  width: 25%;
+  float: left;
+  margin-right: 15px;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.profilePicture {
+  border-radius: 50%;
+  width: 200px;
+  margin-top: 10px;
+}
+
+.programmingImage {
+  width: 25%;
+  float: left;
+    margin-right: 15px;
+}
+/*
+.p1{
+  clear: left;
+}
+.p2{
+  clear: right;
+}
+.p3{
+  clear: left;
+}
+*/
+hr{
+  width: 5%;
+  height: 0;
+  border-style: dotted none none none;
+  border-color: #66BFBF;
+ border-width: 5px;
+
+}
+.bottomdiv{
+  background-color: mistyrose;
+padding: 30px 0 20px 0;
+}
+a:hover{
+  color: crimson;
+}
+.footer-link{
+  text-decoration: none;
+  border-top: 25px;
+}
+.p4{
+  color: midnightblue;
+  margin: 0;
+  padding: 25px 25px 25px 25px;
+  font-size: 0.8rem;
+}
+.profile{
+  margin: 50px auto;
+}
+.contact-me{
+  margin: 75px auto;
+}
+
+.BUTTON_VTU {
+   -webkit-border-radius: 14px;
+   -moz-border-radius: 14px;
+   border-radius: 14px;
+   color: #FDF5E6;
+   font-family: Times New Roman;
+   font-size: 28px;
+   font-weight: 400;
+   padding: 17px;
+   background-color: #66BFBF;
+   border: solid #FDF5E6 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_VTU:hover {
+   border: solid #337FED 1px;
+   background: #FDF5E6;
+   background-image: -webkit-linear-gradient(top, #FDF5E6, #337FED);
+   background-image: -moz-linear-gradient(top, #FDF5E6, #337FED);
+   background-image: -ms-linear-gradient(top, #FDF5E6, #337FED);
+   background-image: -o-linear-gradient(top, #FDF5E6,#337FED );
+   background-image: -webkit-gradient(to bottom, #FDF5E6, #337FED);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
